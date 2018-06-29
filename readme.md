@@ -26,3 +26,8 @@ This kata is about multiplying a given number by eight if it is an even number a
 
 -Example:
 -348597 => [7,9,5,8,4,3]
+
+## Average of array
+-Return the average of the given array rounded down to its nearest integer.
+
+-The array will never be empty.
