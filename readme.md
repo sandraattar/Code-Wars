@@ -31,3 +31,16 @@ This kata is about multiplying a given number by eight if it is an even number a
 -Return the average of the given array rounded down to its nearest integer.
 
 -The array will never be empty.
+
+## Mumbling
+-This time no story, no theory. The examples below show you how to write function accum:
+
+-Examples:
+-accum("abcd");    // "A-Bb-Ccc-Dddd"
+-accum("RqaEzty"); // "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"
+-accum("cwAt");    // "C-Ww-Aaa-Tttt"
+
+## The Museum of Incredible Dull Things
+-Given an array of integers, remove the smallest value. Do not mutate the original array/list. If there are multiple elements with the same value, remove the one with a lower index. If you get an empty array/list, return an empty array/list.
+
+-Don't change the order of the elements that are left.
