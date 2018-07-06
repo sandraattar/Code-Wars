@@ -44,3 +44,6 @@ This kata is about multiplying a given number by eight if it is an even number a
 -Given an array of integers, remove the smallest value. Do not mutate the original array/list. If there are multiple elements with the same value, remove the one with a lower index. If you get an empty array/list, return an empty array/list.
 
 -Don't change the order of the elements that are left.
+
+## Yes or No
+-Complete the method that takes a boolean value and return a "Yes" string for true, or a "No" string for false.
