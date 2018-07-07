@@ -47,3 +47,11 @@ This kata is about multiplying a given number by eight if it is an even number a
 
 ## Yes or No
 -Complete the method that takes a boolean value and return a "Yes" string for true, or a "No" string for false.
+
+## If you can't sleep, just count sheeps!
+
+-Task:
+-Given a number, 3 for example, return a string with a murmur: "1 sheep...2 sheep...3 sheep..."
+
+-Note:
+-You will always receive a positive integer.
