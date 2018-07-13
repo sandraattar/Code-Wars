@@ -55,3 +55,23 @@ This kata is about multiplying a given number by eight if it is an even number a
 
 -Note:
 -You will always receive a positive integer.
+
+## Return Negative
+
+-In this simple assignment you are given a number and have to make it negative. But maybe the number is already negative?
+
+## Sum of Positive
+
+-You get an array of numbers, return the sum of all of the positives ones.
+
+-Example [1,-4,7,12] => 1 + 7 + 12 = 20
+
+-Note: if there is nothing to sum, the sum is default to 0.
+
+## Predict Age 
+-My grandfather always predicted how old people would get, and right before he passed away he revealed his secret!
+-In honor of my grandfather's memory we will write a function using his formula!
+-Take a list of ages when each of your great-grandparent died.
+-Multiply each number by itself.
+-Add them all together.
+-Divide by two.
