@@ -70,8 +70,25 @@ This kata is about multiplying a given number by eight if it is an even number a
 
 ## Predict Age 
 -My grandfather always predicted how old people would get, and right before he passed away he revealed his secret!
+
 -In honor of my grandfather's memory we will write a function using his formula!
+
 -Take a list of ages when each of your great-grandparent died.
+
 -Multiply each number by itself.
+
 -Add them all together.
+
 -Divide by two.
+
+## Sum of Odd Numbers
+-Given the triangle of consecutive odd numbers:
+
+             1
+          3     5
+       7     9    11
+   13    15    17    19
+21    23    25    27    29
+...
+
+-Calculate the row sums of this triangle from the row index (starting at index 1)
