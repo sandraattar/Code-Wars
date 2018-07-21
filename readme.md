@@ -102,3 +102,9 @@ This kata is about multiplying a given number by eight if it is an even number a
 - findNextSquare(121) --> returns 144
 - findNextSquare(625) --> returns 676
 - findNextSquare(114) --> returns -1 since 114 is not a perfect
+
+## Sum of Multiples of 3 and 5
+-If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
+
+-Find the sum of all the multiples of 3 or 5 below 1000.
+
