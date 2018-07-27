@@ -91,7 +91,7 @@ This kata is about multiplying a given number by eight if it is an even number a
 21    23    25    27    29
 ...
 
--Calculate the row sums of this triangle from the row index (starting at index 1)
+-Calculate the row sums of this triangle from the row index (starting at index 1). 
 
 ## Find Next Perfect Square
 -Complete the findNextSquare method that finds the next integral perfect square after the one passed as a parameter. Recall that an integral perfect square is an integer n such that sqrt(n) is also an integer.
